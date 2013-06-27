@@ -1,4 +1,8 @@
 Batman2::Application.routes.draw do
+  get "batmobile/home"
+
+  get "batmobile/about"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

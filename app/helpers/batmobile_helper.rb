@@ -1,0 +1,2 @@
+module BatmobileHelper
+end
