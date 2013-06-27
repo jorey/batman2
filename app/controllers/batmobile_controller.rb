@@ -4,4 +4,7 @@ class BatmobileController < ApplicationController
 
   def about
   end
+
+  def do_stuff
+  end
 end
